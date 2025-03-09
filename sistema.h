@@ -6,17 +6,11 @@
 #include <locale.h>
 #include <sys/stat.h>
 
-
 typedef struct Produto TProduto, *PProduto;
-typedef struct Venda TVenda, *PVenda;
-typedef struct Compra TCompra, *PCompra;
 
 void  cadastro_de_produto();
 void  lista_do_estoque();
-
 void registro_de_compra();
-
 void registro_de_venda();
-
 
 #endif
