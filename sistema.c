@@ -158,4 +158,3 @@ void registro_de_venda(){
     linha();
         
 }
-
